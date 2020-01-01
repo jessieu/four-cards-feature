@@ -1,0 +1,90 @@
+body {
+    height: 100vh;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+
+}
+
+h3 {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+img {
+    width: 30%;
+    margin-left: 60%;
+}
+
+/* Introduction Section */
+.intro {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#slogan {
+    color: grey;
+}
+#tech {
+    margin-top: 10px;
+}
+
+#detail {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    padding: 10px 30% 20px 30%;
+    color: #D3D3D3;
+}
+
+/* Features Section */
+.features {
+    padding: 5% 20%;
+    padding-top: 10px;
+}
+.card{
+    text-align: center;
+}
+
+.left-card {
+    padding-top: 10%;
+    padding-right: 3%;
+}
+
+.right-card {
+    padding-top: 10%;
+    padding-left: 3%;
+}
+
+.mid-top {
+    margin-bottom: 50px;
+}
+
+.left-header {
+    border-top: 0.3rem solid Cyan;
+}
+
+.mid-top-header {
+    border-top: 0.3rem solid Red;
+}
+
+.mid-bottom-header {
+    border-top: 0.3rem solid Orange;
+}
+
+.right-header {
+    border-top: 0.3rem solid Blue;
+}
+
+/* Footer Section */
+#footer {
+    text-align: center;
+    background-color: #c9b6e4;
+}
+
+.attribution {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
